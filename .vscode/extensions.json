@@ -7,7 +7,8 @@
 		"tinkertrain.theme-panda",
 		"codespaces-contrib.codeswing",
 		"vsls-contrib.codetour",
-		"streetsidesoftware.code-spell-checker"
+		"streetsidesoftware.code-spell-checker",
+		"formulahendry.code-runner"
 	],
 
 }

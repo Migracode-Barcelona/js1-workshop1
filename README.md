@@ -2,7 +2,7 @@
 
 ## Before the class
 
-> :warning: **If your assignment has been given to you through GitHub Classroom, this repository *does not need to be forked*: open the created repository using CodeSpaces OR clone the created repository!**
+> ⚠️ **If your assignment has been given to you through GitHub Classroom, this repository *does not need to be forked*: open the created repository using CodeSpaces OR clone the created repository!**
 
 #### Fork the exercises module repo <a href="#fork-the-exercises-module-repo" id="fork-the-exercises-module-repo"></a>
 
@@ -38,6 +38,8 @@ The console is a tool which is mainly used to log information - it's useful for 
 1. Update your first `exercise-A.js` script in the folder `week-1/InClass` in the [Javascript Module 1 repository](https://github.com/Migracode-Barcelona/javascript-module-1) you forked before
 2. Type `console.log("Hello World!")`
 3. Run this script by going with the terminal to your directory and write `node exercise-A.js`, you will see the result of the console.log in the terminal
+
+> 💡 Inside a CodeSpace or VS Code, you can also use the shortcut: Control+Alt+N (or ⌃ Control+⌥ Option+N on macOS), or press F1 and then select/type Run Code, the code will run and the output will be shown in the Output window.
 
 #### Exercise B (5 minutes) <a href="#exercise-b-5-minutes" id="exercise-b-5-minutes"></a>
 
